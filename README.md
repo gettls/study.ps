@@ -10,8 +10,10 @@
 ----------
 >|**날짜**|**공통 문제** |**개별 문제**  |
 >|:----:|:-----|:-----:|
->|21.03.24|[1003]  터렛<br/>[5430]  AC|
+>|21.03.24|[1003]  터렛<br/>[5430]  AC|[1261] 알고스팟 <br/>[1916] 최소비용 구하기|
 --------
 
 [1003]:https://www.acmicpc.net/problem/1002
 [5430]:https://www.acmicpc.net/problem/5430
+[1261]:https://www.acmicpc.net/problem/1261
+[1916]:https://www.acmicpc.net/problem/1916
