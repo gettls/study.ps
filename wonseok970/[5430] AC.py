@@ -1,35 +1,62 @@
-import re
 import sys
+from collections import deque
 
 test_case = int(input())
 
 for _ in range(test_case):
-    get_list = []
+    dq = deque()
+    dq_r = deque()
+    reverse = 1
+    del_count = 0
 
-    # 입력할 함수
-    func = list(sys.stdin.readline())
+    # 수행할 함수
+    p = sys.stdin.readline()
 
-    # 함수의 길이
-    list_len = int(sys.stdin.readline())
+    # 배열의 수
+    n = int(sys.stdin.readline())
 
     # 리스트 입력
-    array = sys.stdin.readline()
+    x = eval(input())
 
-    # 숫자만 추출
-    numbers = list(map(int, re.findall("\d+", array)))
+    for i in x:
+        dq.append(i)
 
-    for i in range(len(numbers)):
-        get_list.append(numbers[i])
+    for i in p:
+        if n <= 0:
+            reverse = 0
+            break
+        if i == 'R':
+            reverse *= -1
+        elif i == 'D':
+            # 뒤집혔을 때
+            if reverse == -1:
+                dq.pop()
+                n -= 1
+            # 뒤집히지 않았을 때
+            elif reverse == 1:
+                dq.popleft()
+                n -= 1
 
-    for j in range(len(func)):
-        if func[j] == 'R':
-            get_list.reverse()
-        elif func[j] == 'D':
-            if len(get_list) <= 1:
-                print('error')
-                break
+    if reverse == -1:
+        for i in range(n):
+            v = dq.pop()
+            dq_r.append(v)
+        print('[', end="")
+        for i in range(n):
+            if i == n - 1:
+                print(dq[i], end='')
             else:
-                del get_list[0]
+                print(dq[i], end=',')
+        print(']')
 
-    if len(get_list) > 1:
-        print(list(get_list))
+    elif reverse == 1:
+        print('[', end="")
+        for i in range(n):
+            if i == n - 1:
+                print(dq[i], end='')
+            else:
+                print(dq[i], end=',')
+        print(']')
+
+    else:
+        print('error')
