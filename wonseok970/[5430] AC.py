@@ -4,59 +4,35 @@ from collections import deque
 test_case = int(input())
 
 for _ in range(test_case):
-    dq = deque()
-    dq_r = deque()
-    reverse = 1
-    del_count = 0
+    reverse = False
 
     # 수행할 함수
-    p = sys.stdin.readline()
+    p = str(sys.stdin.readline())
 
     # 배열의 수
     n = int(sys.stdin.readline())
 
     # 리스트 입력
-    x = eval(input())
-
-    for i in x:
-        dq.append(i)
+    x = deque(eval(input()))
 
     for i in p:
-        if n <= 0:
-            reverse = 0
-            break
+
         if i == 'R':
-            reverse *= -1
+            reverse = not reverse
         elif i == 'D':
+            if len(x) <= 0:
+                print('error')
+                break
             # 뒤집혔을 때
-            if reverse == -1:
-                dq.pop()
-                n -= 1
+            if reverse:
+                x.pop()
             # 뒤집히지 않았을 때
-            elif reverse == 1:
-                dq.popleft()
-                n -= 1
-
-    if reverse == -1:
-        for i in range(n):
-            v = dq.pop()
-            dq_r.append(v)
-        print('[', end="")
-        for i in range(n):
-            if i == n - 1:
-                print(dq[i], end='')
             else:
-                print(dq[i], end=',')
-        print(']')
-
-    elif reverse == 1:
-        print('[', end="")
-        for i in range(n):
-            if i == n - 1:
-                print(dq[i], end='')
-            else:
-                print(dq[i], end=',')
-        print(']')
-
+                x.popleft()
     else:
-        print('error')
+        if reverse:
+            x.reverse()
+        print(str(list(x)).replace(' ', ''))
+
+
+
