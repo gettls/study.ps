@@ -23,7 +23,7 @@ for _ in range(test_case):
 
     for i in p:
         if n <= 0:
-            reverse = 0
+            error = 0
             break
         if i == 'R':
             reverse *= -1
@@ -58,5 +58,5 @@ for _ in range(test_case):
                 print(dq[i], end=',')
         print(']')
 
-    else:
+    elif error == 0:
         print('error')
