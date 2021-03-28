@@ -17,4 +17,4 @@
 [5430]:https://www.acmicpc.net/problem/5430
 [1261]:https://www.acmicpc.net/problem/1261
 [1916]:https://www.acmicpc.net/problem/1916
-[14501]:https://www.acmicpc.net/board/view/40251
+[14501]:https://www.acmicpc.net/problem/14501
