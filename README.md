@@ -12,7 +12,7 @@
 >|:----:|:-----:|:-----:|:-----:|
 >|21.03.24<br/>~21.03.28|[1003]  터렛<br/>[5430]  AC|[1261] 알고스팟 <br/>[1916] 최소비용 구하기 <br/>[14501] 퇴사<br/>[1932] 정수 삼각형| Default
 >|21.03.29<br/>~21.04.04|<br/>[2193]  이천수<br/>[9465]  스티커<br/>[11052] 카드 구매하기<br/><br/>|[14499] 주사위 굴리기<br/>[5052] 전화번호목록<br/>[11053] 가장 긴 증가하는 부분 수열<br/>[2096] 내려가기| DP<br/>[Dynamic Programming]
-
+>|21.04.05<br/>~21.04.00|<br/>[14400] 편의점<br/>[15729] 방탈출<br/>[1339] 단어 수학<br/>[13305] 주유소<br/>[1202] 보석도둑<br/>[9576] 책 나눠주기<br/><br/>|
 
 [1003]:https://www.acmicpc.net/problem/1002
 [5430]:https://www.acmicpc.net/problem/5430
@@ -27,3 +27,12 @@
 [5052]:https://www.acmicpc.net/problem/5052
 [11053]:https://www.acmicpc.net/problem/11053
 [2096]:https://www.acmicpc.net/problem/2096
+[14400]:https://www.acmicpc.net/problem/14400
+[15729]:https://www.acmicpc.net/problem/15729
+[13305]:https://www.acmicpc.net/problem/13305
+[1202]:https://www.acmicpc.net/problem/1202
+[9576]:https://www.acmicpc.net/problem/9576
+[1339]:https://www.acmicpc.net/problem/1339
+
+
+<center><img src="https://user-images.githubusercontent.com/67217686/113573935-147ca900-9656-11eb-9649-0ef653fcb69b.jpeg" width="420" height="400"></center>
