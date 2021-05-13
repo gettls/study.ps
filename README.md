@@ -14,6 +14,7 @@
 >|21.03.29<br/>~21.04.04|<br/>[2193]  이천수<br/>[9465]  스티커<br/>[11052] 카드 구매하기<br/><br/>|DP<br/>[Dynamic Programming]|[14499] 주사위 굴리기<br/>[5052] 전화번호목록<br/>[11053] 가장 긴 증가하는 부분 수열<br/>[2096] 내려가기
 >|21.04.05<br/>~21.04.11|<br/>[14400] 편의점<br/>[15729] 방탈출<br/>[1339] 단어 수학<br/>[13305] 주유소<br/>[1202] 보석도둑<br/>[9576] 책 나눠주기<br/><br/>|Greedy<br/>[Greedy Algorithm]|[1781] 컵라면(Greedy)<br/>[2217] 로프
 >|21.05.03<br/>~21.05.09|[1260] DFS와BFS<br/>[14267] 회사 문화1<br/>[20057] 마법사 상어와 토네이도<br/>[17142] 연구소 3<br/>[21608] 상어 초등학교<br/>[Link] [1] 카드 짝 맞추기|DFS/BFS
+>|21.05.10<br/>~21.05.16|[1916] 최소비용 구하기<br/>[1261] 알고스팟<br/>[1238] 파티|Dijikstra<br/>|[Book] 전보
 
 [1003]:https://www.acmicpc.net/problem/1002
 [5430]:https://www.acmicpc.net/problem/5430
@@ -42,4 +43,9 @@
 [17142]:https://www.acmicpc.net/problem/17142
 [21608]:https://www.acmicpc.net/problem/21608
 [1]:https://programmers.co.kr/learn/courses/30/lessons/72415
+
+[1916]:https://www.acmicpc.net/problem/1916
+[1261]:https://www.acmicpc.net/problem/1261
+[1238]:https://www.acmicpc.net/problem/1238
+
 <center><img src="https://user-images.githubusercontent.com/67217686/113573935-147ca900-9656-11eb-9649-0ef653fcb69b.jpeg" width="420" height="400"></center>
