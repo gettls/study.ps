@@ -15,7 +15,7 @@
 >|21.04.05<br/>~21.04.11|<br/>[14400] 편의점<br/>[15729] 방탈출<br/>[1339] 단어 수학<br/>[13305] 주유소<br/>[1202] 보석도둑<br/>[9576] 책 나눠주기<br/><br/>|Greedy<br/>[Greedy Algorithm]|[1781] 컵라면(Greedy)<br/>[2217] 로프
 >|21.05.03<br/>~21.05.09|[1260] DFS와BFS<br/>[14267] 회사 문화1<br/>[20057] 마법사 상어와 토네이도<br/>[17142] 연구소 3<br/>[21608] 상어 초등학교<br/>[Link] [1] 카드 짝 맞추기|[DFS/BFS]|문제보류
 >|21.05.10<br/>~21.05.16|[1916] 최소비용 구하기<br/>[1261] 알고스팟<br/>[1238] 파티|최단 경로<br/>|[Book] 전보 </br> [2589] 보물섬
->|21.05.18<br/>~21.05.23|[11053] 가장 긴 증가하는 부분수열<br/>[12015] 가장 긴 증가하는 부분수열2<br/>[12738] 가장 긴 증가하는 부분수열 3<br/>[10815] 숫자 카드<br/>|이분 탐색| 
+>|21.05.18<br/>~21.05.23|[2470] 두 용액<br/>[12015] 가장 긴 증가하는 부분수열2<br/>[12738] 가장 긴 증가하는 부분수열 3<br/>[10815] 숫자 카드<br/>|이분 탐색| 
 
 [1003]:https://www.acmicpc.net/problem/1002
 [5430]:https://www.acmicpc.net/problem/5430
@@ -49,7 +49,7 @@
 [1261]:https://www.acmicpc.net/problem/1261
 [1238]:https://www.acmicpc.net/problem/1238
 [10815]:https://www.acmicpc.net/problem/10815
-[11053]:https://www.acmicpc.net/problem/11053
+[2470]:https://www.acmicpc.net/problem/2470
 [12015]:https://www.acmicpc.net/problem/12015
 [12738]:https://www.acmicpc.net/problem/12738
 
