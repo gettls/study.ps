@@ -19,6 +19,7 @@
 >
 >|**미해결 문제**|
 >|:-----:|
+>|[20057] 마법사 상어와 토네이도<br/>
 
 [1003]:https://www.acmicpc.net/problem/1002
 [5430]:https://www.acmicpc.net/problem/5430
