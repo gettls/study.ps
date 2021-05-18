@@ -51,4 +51,4 @@ int main() {
 		}
 	}
 	cout << res;
-}
+}c
