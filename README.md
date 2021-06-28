@@ -17,6 +17,7 @@
 >|21.05.10<br/>~21.05.16|[1916] 최소비용 구하기<br/>[1261] 알고스팟<br/>[1238] 파티|최단 경로<br/>|[Book] 전보 </br> [2589] 보물섬
 >|21.05.18<br/>~21.05.23|[2470] 두 용액<br/>[12015] 가장 긴 증가하는 부분수열2<br/>[12738] 가장 긴 증가하는 부분수열 3<br/>[10815] 숫자 카드<br/>|이분 탐색|[2110] 공유기 설치</br> [2512] 예산</br>[2805]나무 자르기</br> [3020] 개똥벌레
 >|21.05.24<br/>~21.05.29|[16564] 히오스 프로게이머<br/>[1316] 그룹 단어 <br/>[4949] 균형잡힌 세상<br/>[8983] 사냥꾼|이분탐색<br/>문자열
+>|21.06.23<br/>~21.06.27|[1920] 수 찾기<br/>[1654] 랜선 자르기 <br/>[2792] 보석 상자<br/>[1477] 휴게소 세우기<br/>[13702] 이상한 술집<br/>[1321] 군인<br/>|이분탐색
 ---------- 
 >|**미해결 문제**|
 >|:-----:|
@@ -61,11 +62,14 @@
 [2512]:https://www.acmicpc.net/problem/2512
 [2805]:https://www.acmicpc.net/problem/2805
 [3020]:https://www.acmicpc.net/problem/3020
-
 [16564]:https://www.acmicpc.net/problem/16564
 [1316]:https://www.acmicpc.net/problem/1316
 [4949]:https://www.acmicpc.net/problem/4949
 [8983]:https://www.acmicpc.net/problem/8983
-
-
+[1920]:https://www.acmicpc.net/problem/1920
+[1654]:https://www.acmicpc.net/problem/1654
+[2792]:https://www.acmicpc.net/problem/2792
+[1477]:https://www.acmicpc.net/problem/1477
+[13702]:https://www.acmicpc.net/problem/13702
+[1321]:https://www.acmicpc.net/problem/1321
 <center><img src="https://user-images.githubusercontent.com/67217686/113573935-147ca900-9656-11eb-9649-0ef653fcb69b.jpeg" width="420" height="400"></center>
