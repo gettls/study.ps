@@ -15,8 +15,8 @@ while s <= e:
     mid = (s + e) // 2
     envy = 0
     for i in range(len(jwl)):
-        envy += jwl[i] // mid
-        if jwl[i] % mid != 0:
+        envy += jwl[i] // mid  # 보석의 수를 질투심 만큼 나눈 값
+        if jwl[i] % mid != 0:  # 만약 보석의 수가 질투심으로 나누어 떨어지지 않는다면
             envy += 1
 
     if N >= envy:
