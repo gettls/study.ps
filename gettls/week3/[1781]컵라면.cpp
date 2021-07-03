@@ -32,4 +32,4 @@ int main() {
 		day--;
 	}
 	cout << result;
-} 
+} 	

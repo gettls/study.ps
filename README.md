@@ -18,11 +18,16 @@
 >|21.05.18<br/>~21.05.23|[2470] 두 용액<br/>[12015] 가장 긴 증가하는 부분수열2<br/>[12738] 가장 긴 증가하는 부분수열 3<br/>[10815] 숫자 카드<br/>|이분 탐색|[2110] 공유기 설치</br> [2512] 예산</br>[2805]나무 자르기</br> [3020] 개똥벌레
 >|21.05.24<br/>~21.05.29|[16564] 히오스 프로게이머<br/>[1316] 그룹 단어 <br/>[4949] 균형잡힌 세상<br/>[8983] 사냥꾼|이분탐색<br/>문자열
 >|21.06.23<br/>~21.06.27|[1920] 수 찾기<br/>[1654] 랜선 자르기 <br/>[2792] 보석 상자<br/>[1477] 휴게소 세우기<br/>[13702] 이상한 술집<br/>[1321] 군인<br/>|이분탐색
+>|21.06.28<br/>~21.07.05|[2042] 구간 합 구하기<br/>[2357] 최솟값과 최댓값 <br/>[11505] 구간 곱 구하기|세그먼트 트리|[2109] 순회강연 (그리디)
+
 ---------- 
 >|**미해결 문제**|
 >|:-----:|
 >|[20057] 마법사 상어와 토네이도<br/>
 ----------
+[2042]:https://www.acmicpc.net/problem/2042
+[2357]:https://www.acmicpc.net/problem/2357
+[11505]:https://www.acmicpc.net/problem/11505
 [1003]:https://www.acmicpc.net/problem/1002
 [5430]:https://www.acmicpc.net/problem/5430
 [1261]:https://www.acmicpc.net/problem/1261
@@ -72,4 +77,5 @@
 [1477]:https://www.acmicpc.net/problem/1477
 [13702]:https://www.acmicpc.net/problem/13702
 [1321]:https://www.acmicpc.net/problem/1321
+[2109]:https://www.acmicpc.net/problem/2109
 <center><img src="https://user-images.githubusercontent.com/67217686/113573935-147ca900-9656-11eb-9649-0ef653fcb69b.jpeg" width="420" height="400"></center>
