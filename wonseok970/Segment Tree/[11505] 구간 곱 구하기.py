@@ -3,18 +3,6 @@ import sys
 input = sys.stdin.readline
 
 
-# # 세그먼트 트리 생성
-# def init(node, start, end):
-#     # start 와 end 값이 같으면 leaf 노드
-#     if start == end:
-#         tree[node] = list_[start]  # leaf 원소의 노드를 leaf 노드에 대입
-#         return tree[node]
-#
-#     else:  # leaf 노드를 생성할 때 까지 재귀한다.
-#         tree[node] = init(node * 2, start, (start + end) // 2) * init(node * 2 + 1, (start + end) // 2 + 1, end)
-#         return tree[node]
-
-
 def prefixMul(node, start, end, left, right):
     # start 와 end 를 구간이 벗어날 경우 / [l, r] [s, e]
     if right < start or end < left:
@@ -63,7 +51,7 @@ for _ in range(M + K):
     # c 로 바꾼다
 
     # a = 2 일때,
-    # b ~ c 의 합을 구한다
+    # b ~ c 의 곱을 구한다
     a, b, c = map(int, input().split())
 
     if a == 1:
