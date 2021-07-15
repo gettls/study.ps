@@ -29,4 +29,3 @@ while q:
     if 0 <= now + 1 <= 100001 and check[now + 1] == -1:
         check[now + 1] = check[now] + 1
         q.append(now + 1)
-
