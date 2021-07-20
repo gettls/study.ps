@@ -20,6 +20,7 @@ def solution(orders, course):
 
     return answer
 
+#
 # ['AB', 'AC', 'AF', 'AG', 'BC', 'BF', 'BG', 'CF', 'CG', 'FG', 'AC', 'CD', 'CE', 'DE', 'AC', 'AD', 'AE', 'CD', 'CE', 'DE', 'BC', 'BF', 'BG', 'CF', 'CG', 'FG', 'AC', 'AD', 'AE', 'AH', 'CD', 'CE', 'CH', 'DE', 'DH', 'EH']
 # ['ABC', 'ABF', 'ABG', 'ACF', 'ACG', 'AFG', 'BCF', 'BCG', 'BFG', 'CFG', 'CDE', 'ACD', 'ACE', 'ADE', 'CDE', 'BCF', 'BCG', 'BFG', 'CFG', 'ACD', 'ACE', 'ACH', 'ADE', 'ADH', 'AEH', 'CDE', 'CDH', 'CEH', 'DEH']
 # ['ABCF', 'ABCG', 'ABFG', 'ACFG', 'BCFG', 'ACDE', 'BCFG', 'ACDE', 'ACDH', 'ACEH', 'ADEH', 'CDEH']
