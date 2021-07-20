@@ -20,6 +20,8 @@
 >|21.06.23<br/>~21.06.27|[1920] 수 찾기<br/>[1654] 랜선 자르기 <br/>[2792] 보석 상자<br/>[1477] 휴게소 세우기<br/>[13702] 이상한 술집<br/>[1321] 군인(미결)<br/>|이분탐색
 >|21.06.28<br/>~21.07.05|[2042] 구간 합 구하기<br/>[2357] 최솟값과 최댓값 <br/>[11505] 구간 곱 구하기|세그먼트 트리|[2109] 순회강연 (그리디)<br/> [1744] 수 묶기 (그리디)<br/> [9935] 문자열 폭발(문자열)
 >|21.07.05<br/>~21.07.11|[1759] 암호만들기<br/>[14889] 스타트와 링크<br/>[1107] 리모콘<br/>[1065] 한수<br/>[1436] 영화감독 숌<br/>[2468] 안전영역|완전탐색(Brute-Force Search)|[17413] 단어 뒤집기(문자열)
+>|21.07.12<br/>~21.07.18|[1753]최단경로<br/>[1504]특정한 최단경로<br/>[1939]중량제한<br/>[13549]숨바꼭질3<br/>[4485]녹색 옷 입은 애가 젤다지?<br/>[2665]미로 만들기<br/>[11779]최소비용 구하기2<br/>|최단 경로|[10282]해킹<br/>[1347]미로만들기<br/>[9370]미확인 도착지<br/>
+>|21.07.19<br/>~21.07.25|2021 KAKAO BLIND RECRUITMENT|[2021KAKAO]|신규 아이디 추천</br>메뉴 리뉴얼</br>순위 검색</br>합승 택시 요금<br/>광고 삽입<br/>카드 짝 맞추기<br/>매출 하락 최소화
 ---------- 
 >|**미해결 문제**|
 >|:-----:|
@@ -87,4 +89,15 @@
 [1744]:https://www.acmicpc.net/problem/1744
 [9935]:https://www.acmicpc.net/problem/9935
 [17413]:https://www.acmicpc.net/problem/17413
+[1753]:https://www.acmicpc.net/problem/1753
+[1504]:https://www.acmicpc.net/problem/1504
+[1939]:https://www.acmicpc.net/problem/1939
+[13549]:https://www.acmicpc.net/problem/13549
+[4485]:https://www.acmicpc.net/problem/4485
+[2665]:https://www.acmicpc.net/problem/2665
+[11779]:https://www.acmicpc.net/problem/11779
+[10282]:https://www.acmicpc.net/problem/10282
+[1347]:https://www.acmicpc.net/problem/1347
+[9370]:https://www.acmicpc.net/problem/9370
+[2021KAKAO]:https://programmers.co.kr/learn/challenges
 <center><img src="https://user-images.githubusercontent.com/67217686/113573935-147ca900-9656-11eb-9649-0ef653fcb69b.jpeg" width="420" height="400"></center>
