@@ -21,7 +21,7 @@
 >|21.06.28<br/>~21.07.05|[2042] 구간 합 구하기<br/>[2357] 최솟값과 최댓값 <br/>[11505] 구간 곱 구하기|세그먼트 트리|[2109] 순회강연 (그리디)<br/> [1744] 수 묶기 (그리디)<br/> [9935] 문자열 폭발(문자열)
 >|21.07.05<br/>~21.07.11|[1759] 암호만들기<br/>[14889] 스타트와 링크<br/>[1107] 리모콘<br/>[1065] 한수<br/>[1436] 영화감독 숌<br/>[2468] 안전영역|완전탐색(Brute-Force Search)|[17413] 단어 뒤집기(문자열)
 >|21.07.12<br/>~21.07.18|[1753]최단경로<br/>[1504]특정한 최단경로<br/>[1939]중량제한<br/>[13549]숨바꼭질3<br/>[4485]녹색 옷 입은 애가 젤다지?<br/>[2665]미로 만들기<br/>[11779]최소비용 구하기2<br/>|최단 경로|[10282]해킹<br/>[1347]미로만들기<br/>[9370]미확인 도착지<br/>
->|21.07.19<br/>~21.07.25|2021 KAKAO BLIND RECRUITMENT|[2021KAKAO]|신규 아이디 추천</br>메뉴 리뉴얼</br>순위 검색</br>합승 택시 요금<br/>광고 삽입<br/>카드 짝 맞추기<br/>매출 하락 최소화
+>|21.07.19<br/>~21.07.25|신규 아이디 추천</br>메뉴 리뉴얼</br>순위 검색</br>합승 택시 요금<br/>광고 삽입<br/>카드 짝 맞추기<br/>매출 하락 최소화|[2021 KAKAO BLIND RECRUITMENT]|[1062] 가르침(백트래킹)</br>[1941] 소문난 칠공주(백트래킹)</br>[2023] 신기한 소수(백트래킹)</br>[2580]스도쿠(백트래킹)</br>[2661]좋은 수열(백트래킹)</br>[17136] 색종이 붙이기(백트래킹)</br>[15649] N과 M(1) (백트래킹)
 ---------- 
 >|**미해결 문제**|
 >|:-----:|
@@ -99,5 +99,14 @@
 [10282]:https://www.acmicpc.net/problem/10282
 [1347]:https://www.acmicpc.net/problem/1347
 [9370]:https://www.acmicpc.net/problem/9370
-[2021KAKAO]:https://programmers.co.kr/learn/challenges
+
+
+[1062]:https://www.acmicpc.net/problem/1062
+[1941]:https://www.acmicpc.net/problem/1941
+[2023]:https://www.acmicpc.net/problem/2023
+[2661]:https://www.acmicpc.net/problem/2661
+[2580]:https://www.acmicpc.net/problem/2580
+[15649]:https://www.acmicpc.net/problem/15649
+[17136]:https://www.acmicpc.net/problem/17136
+[2021 KAKAO BLIND RECRUITMENT]:https://programmers.co.kr/learn/challenges
 <center><img src="https://user-images.githubusercontent.com/67217686/113573935-147ca900-9656-11eb-9649-0ef653fcb69b.jpeg" width="420" height="400"></center>
