@@ -22,6 +22,7 @@
 >|21.07.05<br/>~21.07.11|[1759] 암호만들기<br/>[14889] 스타트와 링크<br/>[1107] 리모콘<br/>[1065] 한수<br/>[1436] 영화감독 숌<br/>[2468] 안전영역|완전탐색(Brute-Force Search)|[17413] 단어 뒤집기(문자열)
 >|21.07.12<br/>~21.07.18|[1753]최단경로<br/>[1504]특정한 최단경로<br/>[1939]중량제한<br/>[13549]숨바꼭질3<br/>[4485]녹색 옷 입은 애가 젤다지?<br/>[2665]미로 만들기<br/>[11779]최소비용 구하기2<br/>|최단 경로|[10282]해킹<br/>[1347]미로만들기<br/>[9370]미확인 도착지<br/>
 >|21.07.19<br/>~21.07.25|신규 아이디 추천</br>메뉴 리뉴얼</br>순위 검색</br>합승 택시 요금<br/>광고 삽입<br/>카드 짝 맞추기<br/>매출 하락 최소화|[2021 KAKAO BLIND RECRUITMENT]|[1062] 가르침(백트래킹)</br>[1941] 소문난 칠공주(백트래킹)</br>[2023] 신기한 소수(백트래킹)</br>[2580]스도쿠(백트래킹)</br>[2661]좋은 수열(백트래킹)</br>[17136] 색종이 붙이기(백트래킹)</br>[15649] N과 M(1) (백트래킹)
+>|21.07.12<br/>~21.07.18|[10773] 제로</br>[2941] 크로아티아 알파벳</br>[9375] 패션왕 신해빈</br>[3986] 좋은 단어</br>[15904] UCPC는 무엇의 약자일까?|문자열|[1764] 듣보잡(문자열) </br>[1958] LSC3(문자열) </br> [4358] 생태학(문자열) </br> [5582] 공통 부분 문자열(문자열) </br> [2234] 성곽(BFS/비트마스킹)|
 ---------- 
 >|**미해결 문제**|
 >|:-----:|
@@ -109,4 +110,18 @@
 [15649]:https://www.acmicpc.net/problem/15649
 [17136]:https://www.acmicpc.net/problem/17136
 [2021 KAKAO BLIND RECRUITMENT]:https://programmers.co.kr/learn/challenges
+
+<!--문자열 공통-->
+[2941]:https://www.acmicpc.net/problem/2941
+[10773]:https://www.acmicpc.net/problem/10773
+[9375]:https://www.acmicpc.net/problem/9375
+[3986]:https://www.acmicpc.net/problem/3986
+[15904]:https://www.acmicpc.net/problem/15904
+<!--개별-->
+[1764]:https://www.acmicpc.net/problem/1764
+[1958]:https://www.acmicpc.net/problem/1958
+[2234]:https://www.acmicpc.net/problem/2234
+[5582]:https://www.acmicpc.net/problem/5582
+[4358]:https://www.acmicpc.net/problem/4358
+
 <center><img src="https://user-images.githubusercontent.com/67217686/113573935-147ca900-9656-11eb-9649-0ef653fcb69b.jpeg" width="420" height="400"></center>
