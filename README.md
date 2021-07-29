@@ -17,14 +17,23 @@
 >|21.05.10<br/>~21.05.16|[1916] 최소비용 구하기<br/>[1261] 알고스팟<br/>[1238] 파티|최단 경로<br/>|[Book] 전보 </br> [2589] 보물섬
 >|21.05.18<br/>~21.05.23|[2470] 두 용액<br/>[12015] 가장 긴 증가하는 부분수열2<br/>[12738] 가장 긴 증가하는 부분수열 3<br/>[10815] 숫자 카드<br/>|이분 탐색|[2110] 공유기 설치</br> [2512] 예산</br>[2805]나무 자르기</br> [3020] 개똥벌레
 >|21.05.24<br/>~21.05.29|[16564] 히오스 프로게이머<br/>[1316] 그룹 단어 <br/>[4949] 균형잡힌 세상<br/>[8983] 사냥꾼|이분탐색<br/>문자열
->|21.06.23<br/>~21.06.27|[1920] 수 찾기<br/>[1654] 랜선 자르기 <br/>[2792] 보석 상자<br/>[1477] 휴게소 세우기<br/>[13702] 이상한 술집<br/>[1321] 군인<br/>|이분탐색
->|21.06.28<br/>~21.07.05|[2042] 구간 합 구하기<br/>[2357] 최솟값과 최댓값 <br/>[11505] 구간 곱 구하기|세그먼트 트리|[2109] 순회강연 (그리디)
-
+>|21.06.23<br/>~21.06.27|[1920] 수 찾기<br/>[1654] 랜선 자르기 <br/>[2792] 보석 상자<br/>[1477] 휴게소 세우기<br/>[13702] 이상한 술집<br/>[1321] 군인(미결)<br/>|이분탐색
+>|21.06.28<br/>~21.07.05|[2042] 구간 합 구하기<br/>[2357] 최솟값과 최댓값 <br/>[11505] 구간 곱 구하기|세그먼트 트리|[2109] 순회강연 (그리디)<br/> [1744] 수 묶기 (그리디)<br/> [9935] 문자열 폭발(문자열)
+>|21.07.05<br/>~21.07.11|[1759] 암호만들기<br/>[14889] 스타트와 링크<br/>[1107] 리모콘<br/>[1065] 한수<br/>[1436] 영화감독 숌<br/>[2468] 안전영역|완전탐색(Brute-Force Search)|[17413] 단어 뒤집기(문자열)
+>|21.07.12<br/>~21.07.18|[1753]최단경로<br/>[1504]특정한 최단경로<br/>[1939]중량제한<br/>[13549]숨바꼭질3<br/>[4485]녹색 옷 입은 애가 젤다지?<br/>[2665]미로 만들기<br/>[11779]최소비용 구하기2<br/>|최단 경로|[10282]해킹<br/>[1347]미로만들기<br/>[9370]미확인 도착지<br/>
+>|21.07.19<br/>~21.07.25|신규 아이디 추천</br>메뉴 리뉴얼</br>순위 검색</br>합승 택시 요금<br/>광고 삽입<br/>카드 짝 맞추기<br/>매출 하락 최소화|[2021 KAKAO BLIND RECRUITMENT]|[1062] 가르침(백트래킹)</br>[1941] 소문난 칠공주(백트래킹)</br>[2023] 신기한 소수(백트래킹)</br>[2580]스도쿠(백트래킹)</br>[2661]좋은 수열(백트래킹)</br>[17136] 색종이 붙이기(백트래킹)</br>[15649] N과 M(1) (백트래킹)
+>|21.07.12<br/>~21.07.18|[7785] 회사에 있는 사람</br> [10773] 제로</br>[2941] 크로아티아 알파벳</br>[9375] 패션왕 신해빈</br>[3986] 좋은 단어</br>[15904] UCPC는 무엇의 약자일까?|문자열|[1764] 듣보잡(문자열) </br>[1958] LSC3(문자열) </br> [4358] 생태학(문자열) </br> [5582] 공통 부분 문자열(문자열) </br> [2234] 성곽(BFS/비트마스킹)|
 ---------- 
 >|**미해결 문제**|
 >|:-----:|
 >|[20057] 마법사 상어와 토네이도<br/>
 ----------
+[1759]:https://www.acmicpc.net/problem/1759
+[14889]:https://www.acmicpc.net/problem/14889
+[1107]:https://www.acmicpc.net/problem/1107
+[1065]:https://www.acmicpc.net/problem/1065
+[1436]:https://www.acmicpc.net/problem/1436
+[2468]:https://www.acmicpc.net/problem/2468
 [2042]:https://www.acmicpc.net/problem/2042
 [2357]:https://www.acmicpc.net/problem/2357
 [11505]:https://www.acmicpc.net/problem/11505
@@ -78,4 +87,42 @@
 [13702]:https://www.acmicpc.net/problem/13702
 [1321]:https://www.acmicpc.net/problem/1321
 [2109]:https://www.acmicpc.net/problem/2109
+[1744]:https://www.acmicpc.net/problem/1744
+[9935]:https://www.acmicpc.net/problem/9935
+[17413]:https://www.acmicpc.net/problem/17413
+[1753]:https://www.acmicpc.net/problem/1753
+[1504]:https://www.acmicpc.net/problem/1504
+[1939]:https://www.acmicpc.net/problem/1939
+[13549]:https://www.acmicpc.net/problem/13549
+[4485]:https://www.acmicpc.net/problem/4485
+[2665]:https://www.acmicpc.net/problem/2665
+[11779]:https://www.acmicpc.net/problem/11779
+[10282]:https://www.acmicpc.net/problem/10282
+[1347]:https://www.acmicpc.net/problem/1347
+[9370]:https://www.acmicpc.net/problem/9370
+
+
+[1062]:https://www.acmicpc.net/problem/1062
+[1941]:https://www.acmicpc.net/problem/1941
+[2023]:https://www.acmicpc.net/problem/2023
+[2661]:https://www.acmicpc.net/problem/2661
+[2580]:https://www.acmicpc.net/problem/2580
+[15649]:https://www.acmicpc.net/problem/15649
+[17136]:https://www.acmicpc.net/problem/17136
+[2021 KAKAO BLIND RECRUITMENT]:https://programmers.co.kr/learn/challenges
+
+<!--문자열 공통-->
+[2941]:https://www.acmicpc.net/problem/2941
+[10773]:https://www.acmicpc.net/problem/10773
+[9375]:https://www.acmicpc.net/problem/9375
+[3986]:https://www.acmicpc.net/problem/3986
+[15904]:https://www.acmicpc.net/problem/15904
+[7785]:https://www.acmicpc.net/problem/7785
+<!--개별-->
+[1764]:https://www.acmicpc.net/problem/1764
+[1958]:https://www.acmicpc.net/problem/1958
+[2234]:https://www.acmicpc.net/problem/2234
+[5582]:https://www.acmicpc.net/problem/5582
+[4358]:https://www.acmicpc.net/problem/4358
+
 <center><img src="https://user-images.githubusercontent.com/67217686/113573935-147ca900-9656-11eb-9649-0ef653fcb69b.jpeg" width="420" height="400"></center>
