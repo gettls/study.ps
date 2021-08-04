@@ -136,7 +136,7 @@
 [2146]:https://www.acmicpc.net/problem/2146
 [9466]:https://www.acmicpc.net/problem/9466
 <!--개별-->
-[6953]:https://www.acmicpc.net/problem/6953
+[6593]:https://www.acmicpc.net/problem/6593
 [1525]:https://www.acmicpc.net/problem/1525
 [9372]:https://www.acmicpc.net/problem/9372
 [2178]:https://www.acmicpc.net/problem/2178
