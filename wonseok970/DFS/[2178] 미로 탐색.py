@@ -30,3 +30,5 @@ def bfs():
 bfs()
 
 print(visited[N - 1][M - 1])
+
+#refactor

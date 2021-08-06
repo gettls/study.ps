@@ -44,3 +44,5 @@ elif way0 != -1 and way1 == -1:
 
 else:
     print(min(way0, way1))
+
+
