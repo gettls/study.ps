@@ -7,6 +7,7 @@
 using namespace std;
 #pragma warning (disable:4996)
 
+<<<<<<< HEAD
 int dp[101][100001];
 int main() {
 	int n, k; // 개수, 무게
@@ -40,4 +41,20 @@ int main() {
 		}
 	}
 	cout << dp[n][k];
+=======
+int dp[1001];
+int n;
+
+int main() {
+	cin >> n;
+
+	dp[1] = 1;
+	dp[2] = 2;
+
+	for (int i = 3; i <= n; i++) {
+		dp[i] = (dp[i - 1] + dp[i - 2]) % 10007;
+	}
+
+	cout << dp[n];
+>>>>>>> 3270509c5e814e25ec0d7fbaa5a9e2446175bc90
 }
