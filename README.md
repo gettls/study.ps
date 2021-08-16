@@ -28,6 +28,7 @@
 
 <details>
     <summary>21.08.09 ~ 21.08.15</summary>
+    >[1759]
     <p>[1759]:https://www.acmicpc.net/problem/1759 </p>
 </details>
 
