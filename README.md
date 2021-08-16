@@ -7,7 +7,7 @@
 >❤️ 토요일까지 업로드
 >💙 일요일까지 코드 리뷰 / 다른 풀이 생각해보기
 >```
-----------
+---------
 >|**날짜**|**공통 문제**|**분류**|**개별 문제**
 >|:----:|:-----:|:-----:|:-----:|
 >|21.03.24<br/>~21.03.28|[1003]  터렛<br/>[5430]  AC|Default|[1261] 알고스팟 <br/>[1916] 최소비용 구하기 <br/>[14501] 퇴사<br/>[1932] 정수 삼각형
@@ -26,15 +26,6 @@
 >|21.08.02<br/>~21.08.08|[6593]상범 빌딩</br> [1012]유기농 배추</br> [2206]벽 부수고 이동히기</br> [2178]미로 탐색</br> [1525]퍼즐</br> [9372]상근이의 여행 |그래프 이론|[10026] 적록색약(BFS/DFS)</br>[9019]DSLR(BFS)</br>[2146] 다리만들기(BFS/DFS)</br>[9466] 텀 프로젝트(SCC)</br>[1697] 숨바꼭질</br> [1005] ACM Craft</br> [2644] 촌수계산</br> |
 >|21.08.09<br/>~21.08.15|[1010] 다리 놓기</br>[11726] 2XN 타일링</br>[12865] 평범한 배낭</br>[2225] 합분해</br>[5557] 1학년 </br>[9251] LCS </br>|DP(Dynamic Programming)|[1309] 동물원 </br> [2011] 암호코드</br> [1915] 가장 큰 정사각형</br>|
 
-> 규칙
-> [1003]
-[1003]
-
-<details>
-    <summary>더 많은 내용</summary>
-    > 
-</details>
-
 
 
 
@@ -44,6 +35,9 @@
 >|:-----:|
 >|[20057] 마법사 상어와 토네이도<br/>
 ----------
+
+<center><img src="https://user-images.githubusercontent.com/67217686/113573935-147ca900-9656-11eb-9649-0ef653fcb69b.jpeg" width="420" height="400"></center>
+
 [1759]:https://www.acmicpc.net/problem/1759
 [14889]:https://www.acmicpc.net/problem/14889
 [1107]:https://www.acmicpc.net/problem/1107
@@ -170,6 +164,3 @@
 [1915]:https://www.acmicpc.net/problem/1915
 [2011]:https://www.acmicpc.net/problem/2011
 [1309]:https://www.acmicpc.net/problem/1309
-
-
-<center><img src="https://user-images.githubusercontent.com/67217686/113573935-147ca900-9656-11eb-9649-0ef653fcb69b.jpeg" width="420" height="400"></center>
