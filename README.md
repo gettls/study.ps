@@ -28,8 +28,7 @@
 
 <details>
     <summary>21.08.09 ~ 21.08.15</summary>
-    >[1759]
-    <p>[1759]:https://www.acmicpc.net/problem/1759 </p>
+    <p>>|21.08.09<br/>~21.08.15|[1010] 다리 놓기</br>[11726] 2XN 타일링</br>[12865] 평범한 배낭</br>[2225] 합분해</br>[5557] 1학년 </br>[9251] LCS </br>|DP(Dynamic Programming)|[1309] 동물원 </br> [2011] 암호코드</br> [1915] 가장 큰 정사각형</br>| </p>
 </details>
 
 
