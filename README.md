@@ -27,9 +27,24 @@
 >|21.08.09<br/>~21.08.15|[1010] 다리 놓기</br>[11726] 2XN 타일링</br>[12865] 평범한 배낭</br>[2225] 합분해</br>[5557] 1학년 </br>[9251] LCS </br>|DP(Dynamic Programming)|[1309] 동물원 </br> [2011] 암호코드</br> [1915] 가장 큰 정사각형</br>|
 
 <details>
-    <summary>21.08.09 ~ 21.08.15</summary>
-    <p>>|21.08.09<br/>~21.08.15|[1010] 다리 놓기</br>[11726] 2XN 타일링</br>[12865] 평범한 배낭</br>[2225] 합분해</br>[5557] 1학년 </br>[9251] LCS </br>|DP(Dynamic Programming)|[1309] 동물원 </br> [2011] 암호코드</br> [1915] 가장 큰 정사각형</br>| </p>
+    <summary>Click Me!!!</summary>
+    <div class="tpt">details 과 summary 그리고 css까지 적용</div>
 </details>
+
+<style>
+details { margin:5px 0 10px; }
+details > summary { background:#444; color:#fff; padding:10px; outline:0; border-radius:5px; cursor:pointer; transition:background 0.5s; text-align:left; box-shadow: 1px 1px 2px gray;}
+details > summary::-webkit-details-marker { background:#444; color:#fff; background-size:contain; transform:rotate3d(0, 0, 1, 90deg); transition:transform 0.25s;}
+details[open] > summary::-webkit-details-marker { transform:rotate3d(0, 0, 1, 180deg);}
+details[open] > summary { background:#444;}
+details[open] > summary ~ * { animation:reveal 0.5s;}
+.tpt { background:#444; color:#fff; margin:5px 0 10px; padding:5px 10px; line-height:25px; border-radius:5px; box-shadow: 1px 1px 2px gray;}
+
+@keyframes reveal {
+    from { opacity:0; transform:translate3d(0, -30px, 0); }
+    to { opacity:1; transform:translate3d(0, 0, 0); }
+}
+</style>
 
 
 ---------- 
