@@ -7,7 +7,7 @@
 >❤️ 토요일까지 업로드
 >💙 일요일까지 코드 리뷰 / 다른 풀이 생각해보기
 >```
-----------
+---------
 >|**날짜**|**공통 문제**|**분류**|**개별 문제**
 >|:----:|:-----:|:-----:|:-----:|
 >|21.03.24<br/>~21.03.28|[1003]  터렛<br/>[5430]  AC|Default|[1261] 알고스팟 <br/>[1916] 최소비용 구하기 <br/>[14501] 퇴사<br/>[1932] 정수 삼각형
@@ -23,7 +23,12 @@
 >|21.07.12<br/>~21.07.18|[1753]최단경로<br/>[1504]특정한 최단경로<br/>[1939]중량제한<br/>[13549]숨바꼭질3<br/>[4485]녹색 옷 입은 애가 젤다지?<br/>[2665]미로 만들기<br/>[11779]최소비용 구하기2<br/>|최단 경로|[10282]해킹<br/>[1347]미로만들기<br/>[9370]미확인 도착지<br/>
 >|21.07.19<br/>~21.07.25|신규 아이디 추천</br>메뉴 리뉴얼</br>순위 검색</br>합승 택시 요금<br/>광고 삽입<br/>카드 짝 맞추기<br/>매출 하락 최소화|[2021 KAKAO BLIND RECRUITMENT]|[1062] 가르침(백트래킹)</br>[1941] 소문난 칠공주(백트래킹)</br>[2023] 신기한 소수(백트래킹)</br>[2580]스도쿠(백트래킹)</br>[2661]좋은 수열(백트래킹)</br>[17136] 색종이 붙이기(백트래킹)</br>[15649] N과 M(1) (백트래킹)
 >|21.07.26<br/>~21.08.01|[7785] 회사에 있는 사람</br> [10773] 제로</br>[2941] 크로아티아 알파벳</br>[9375] 패션왕 신해빈</br>[3986] 좋은 단어</br>[15904] UCPC는 무엇의 약자일까?|문자열|[1764] 듣보잡(문자열) </br>[1958] LSC3(문자열) </br> [4358] 생태학(문자열) </br> [5582] 공통 부분 문자열(문자열) </br> [2234] 성곽(BFS/비트마스킹)</br> [1520] 내리막 길(DFS+DP)</br> [3055] 탈출(BFS/DFS)</br>|
->|21.08.02<br/>~21.08.09|[6593]상범 빌딩</br> [1012]유기농 배추</br> [2206]벽 부수고 이동히기</br> [2178]미로 탐색</br> [1525]퍼즐</br> [9372]상근이의 여행 |그래프 이론|[10026] 적록색약(BFS/DFS)</br>[9019]DSLR(BFS)</br>[2146] 다리만들기(BFS/DFS)</br>[9466] 텀 프로젝트(SCC)</br>[1697] 숨바꼭질</br> [1005] ACM Craft</br> [2644] 촌수계산</br> |
+>|21.08.02<br/>~21.08.08|[6593]상범 빌딩</br> [1012]유기농 배추</br> [2206]벽 부수고 이동히기</br> [2178]미로 탐색</br> [1525]퍼즐</br> [9372]상근이의 여행 |그래프 이론|[10026] 적록색약(BFS/DFS)</br>[9019]DSLR(BFS)</br>[2146] 다리만들기(BFS/DFS)</br>[9466] 텀 프로젝트(SCC)</br>[1697] 숨바꼭질</br> [1005] ACM Craft</br> [2644] 촌수계산</br> |
+>|21.08.09<br/>~21.08.15|[1010] 다리 놓기</br>[11726] 2XN 타일링</br>[12865] 평범한 배낭</br>[2225] 합분해</br>[5557] 1학년 </br>[9251] LCS </br>|DP(Dynamic Programming)|[1309] 동물원 </br> [2011] 암호코드</br> [1915] 가장 큰 정사각형</br> (프로그래머스)[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|
+>|21.08.16<br/>~21.08.22|[6236] 용돈관리</br>[7795] 먹을것인가 먹힐것인가</br>[2352] 반도체 설계</br>[1072] 게임</br>[2776] 암기왕</br> [16401] 과자나눠주기|이분 탐색</br>(Binary Search)||
+
+
+
 
 
 ---------- 
@@ -31,6 +36,9 @@
 >|:-----:|
 >|[20057] 마법사 상어와 토네이도<br/>
 ----------
+
+<center><img src="https://user-images.githubusercontent.com/67217686/113573935-147ca900-9656-11eb-9649-0ef653fcb69b.jpeg" width="420" height="400"></center>
+
 [1759]:https://www.acmicpc.net/problem/1759
 [14889]:https://www.acmicpc.net/problem/14889
 [1107]:https://www.acmicpc.net/problem/1107
@@ -146,6 +154,23 @@
 [1005]:https://www.acmicpc.net/problem/1005
 [2644]:https://www.acmicpc.net/problem/2644
 
+<!--DP-->
+[1010]:https://www.acmicpc.net/problem/1010
+[11726]:https://www.acmicpc.net/problem/11726
+[12865]:https://www.acmicpc.net/problem/12865
+[2225]:https://www.acmicpc.net/problem/2225
+[5557]:https://www.acmicpc.net/problem/5557
+[9251]:https://www.acmicpc.net/problem/9251
+<!--개별-->
+[1915]:https://www.acmicpc.net/problem/1915
+[2011]:https://www.acmicpc.net/problem/2011
+[1309]:https://www.acmicpc.net/problem/1309
 
+<!--BS-->
+[6236]:https://www.acmicpc.net/problem/6236
+[7795]:https://www.acmicpc.net/problem/7795
+[2352]:https://www.acmicpc.net/problem/2352
+[1072]:https://www.acmicpc.net/problem/1072
+[2776]:https://www.acmicpc.net/problem/2776
+[16401]:https://www.acmicpc.net/problem/16401
 
-<center><img src="https://user-images.githubusercontent.com/67217686/113573935-147ca900-9656-11eb-9649-0ef653fcb69b.jpeg" width="420" height="400"></center>
