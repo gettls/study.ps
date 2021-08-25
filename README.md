@@ -26,6 +26,7 @@
 >|21.08.02<br/>~21.08.08|[6593]상범 빌딩</br> [1012]유기농 배추</br> [2206]벽 부수고 이동히기</br> [2178]미로 탐색</br> [1525]퍼즐</br> [9372]상근이의 여행 |그래프 이론|[10026] 적록색약(BFS/DFS)</br>[9019]DSLR(BFS)</br>[2146] 다리만들기(BFS/DFS)</br>[9466] 텀 프로젝트(SCC)</br>[1697] 숨바꼭질</br> [1005] ACM Craft</br> [2644] 촌수계산</br> |
 >|21.08.09<br/>~21.08.15|[1010] 다리 놓기</br>[11726] 2XN 타일링</br>[12865] 평범한 배낭</br>[2225] 합분해</br>[5557] 1학년 </br>[9251] LCS </br>|DP(Dynamic Programming)|[1309] 동물원 </br> [2011] 암호코드</br> [1915] 가장 큰 정사각형</br> (프로그래머스)[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|
 >|21.08.16<br/>~21.08.22|[6236] 용돈관리</br>[7795] 먹을것인가 먹힐것인가</br>[2352] 반도체 설계</br>[1072] 게임</br>[2776] 암기왕</br> [16401] 과자나눠주기|이분 탐색</br>(Binary Search)|[14003] 가장 긴 증가하는 부분수열5</br> [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)(BS)</br> [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)(BS)</br>|
+>|21.08.23<br/>~21.08.29|[기능개발]</br>[뉴스 클러스터링]</br>[추석 트래픽]</br>[타겟넘버]</br>[네트워크]</br>[카펫]|프로그래머스</br>모음집|[단어 변환] (백트래킹)|
 
 
 
@@ -175,3 +176,12 @@
 [16401]:https://www.acmicpc.net/problem/16401
 <!--개별-->
 [14003]:https://www.acmicpc.net/problem/14003
+
+<!--17weeek-->
+[기능개발]:https://programmers.co.kr/learn/courses/30/lessons/42586
+[뉴스 클러스터링]:https://programmers.co.kr/learn/courses/30/lessons/17677
+[추석 트래픽]:https://programmers.co.kr/learn/courses/30/lessons/17676
+[타겟넘버]:https://programmers.co.kr/learn/courses/30/lessons/43165
+[네트워크]:https://programmers.co.kr/learn/courses/30/lessons/43162
+[카펫]:https://programmers.co.kr/learn/courses/30/lessons/42842
+[단어 변환]:https://programmers.co.kr/learn/courses/30/lessons/43163
