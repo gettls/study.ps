@@ -27,9 +27,7 @@
 >|21.08.09<br/>~21.08.15|[1010] 다리 놓기</br>[11726] 2XN 타일링</br>[12865] 평범한 배낭</br>[2225] 합분해</br>[5557] 1학년 </br>[9251] LCS </br>|DP(Dynamic Programming)|[1309] 동물원 </br> [2011] 암호코드</br> [1915] 가장 큰 정사각형</br> (프로그래머스)[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|
 >|21.08.16<br/>~21.08.22|[6236] 용돈관리</br>[7795] 먹을것인가 먹힐것인가</br>[2352] 반도체 설계</br>[1072] 게임</br>[2776] 암기왕</br> [16401] 과자나눠주기|이분 탐색</br>(Binary Search)|[14003] 가장 긴 증가하는 부분수열5</br> [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)(BS)</br> [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)(BS)</br>|
 >|21.08.23<br/>~21.08.29|[기능개발]</br>[뉴스 클러스터링]</br>[추석 트래픽]</br>[타겟넘버]</br>[네트워크]</br>[카펫]|프로그래머스</br>모음집|[단어 변환] (백트래킹)|
-
-
-
+>|21.08.30<br/>~21.09.05|[모음사전]</br>[직업군 추천하기]</br>[퍼즐 조각 채우기]</br>[자물쇠와 열쇠]</br>[전화번호 목록]</br>[위장]|프로그래머스|
 
 
 ---------- 
@@ -185,3 +183,11 @@
 [네트워크]:https://programmers.co.kr/learn/courses/30/lessons/43162
 [카펫]:https://programmers.co.kr/learn/courses/30/lessons/42842
 [단어 변환]:https://programmers.co.kr/learn/courses/30/lessons/43163
+
+<!--18weeek-->
+[모음사전]:https://programmers.co.kr/learn/courses/30/lessons/84512
+[직업군 추천하기]:https://programmers.co.kr/learn/courses/30/lessons/84325
+[퍼즐 조각 채우기]:https://programmers.co.kr/learn/courses/30/lessons/84021
+[자물쇠와 열쇠]:https://programmers.co.kr/learn/courses/30/lessons/60059
+[전화번호 목록]:https://programmers.co.kr/learn/courses/30/lessons/42577
+[위장]:https://programmers.co.kr/learn/courses/30/lessons/42578
