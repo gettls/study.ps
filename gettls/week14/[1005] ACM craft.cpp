@@ -61,3 +61,4 @@ int main() {
 		cout << totalCost[w] << "\n";
 	}
 }
+r
