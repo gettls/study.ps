@@ -5,18 +5,19 @@
 
 def solution(word):
     dic = []
+    list_word = ['A', 'E', 'I', 'O', 'U']
 
     def add(s):
         if len(s) == 6:
             return
         dic.append(s)
 
-        for i in word:
+        for i in list_word:
             # print('#2')
             # print(s + i)
             add(s + i)
 
-    for i in word:
+    for i in list_word:
         # print('#1')
         # print(i)
         add(i)
