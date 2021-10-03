@@ -29,7 +29,7 @@
 >|21.08.23<br/>~21.08.29|[기능개발]</br>[뉴스 클러스터링]</br>[추석 트래픽]</br>[타겟넘버]</br>[네트워크]</br>[카펫]|프로그래머스</br>모음집|[단어 변환] (백트래킹)|
 >|21.08.30<br/>~21.09.05|[모음사전]</br>[직업군 추천하기]</br>[퍼즐 조각 채우기]✔</br>[자물쇠와 열쇠]✔</br>[전화번호 목록]</br>[위장]|프로그래머스|
 >|21.09.13<br/>~21.09.19|[17144] 미세먼지 안녕</br> [15685] 드래곤 커브</br> [2636] 치즈</br> [1600] 말이 되고픈 원숭이
->|21.10.01<br/>~21.10.08|[테트로미노]</br> [치킨 배달]</br> [로봇 청소기]</br> [마인크래프트]</br> [사다리 조작]</br> [배열 돌리기 2]</br>|구현|
+>|21.10.01<br/>~21.10.08|[14500] 테트로미노</br> [15686] 치킨 배달</br> [14503] 로봇 청소기</br> [18111] 마인크래프트</br> [15684] 사다리 조작</br> [16927] 배열 돌리기 2</br>|구현|
 
 ---------- 
 >|**미해결 문제**|
@@ -200,9 +200,9 @@
 [1600]:https://www.acmicpc.net/problem/1600
 
 <!--20weeok-->
-[테트로미노]:https://www.acmicpc.net/problem/14500
-[치킨 배달]:https://www.acmicpc.net/problem/15686
-[로봇 청소기]:https://www.acmicpc.net/problem/14503
-[마인크래프트]:https://www.acmicpc.net/problem/18111
-[사다리 조작]:https://www.acmicpc.net/problem/15684
-[배열 돌리기 2]:https://www.acmicpc.net/problem/16927
+[14500]:https://www.acmicpc.net/problem/14500
+[15686]:https://www.acmicpc.net/problem/15686
+[14503]:https://www.acmicpc.net/problem/14503
+[18111]:https://www.acmicpc.net/problem/18111
+[15684]:https://www.acmicpc.net/problem/15684
+[16927]:https://www.acmicpc.net/problem/16927
