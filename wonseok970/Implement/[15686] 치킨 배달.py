@@ -25,5 +25,3 @@ for comb_c in combinations(chicken, M):
     cnt += 1
 
 print(min(result))
-
-get_some(print)
