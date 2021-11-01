@@ -39,4 +39,3 @@ while True:
         else:
             print("no")
 
-# refactor

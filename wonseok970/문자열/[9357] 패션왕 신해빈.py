@@ -12,6 +12,8 @@ while T:
     for i in range(len(type_c_set)):
         # 착용하지 않는 경우 + 1
         result *= (type_c.count(type_c_set[i]) + 1)
+
     result -= 1
     print(result)
     T -= 1
+# refactor
