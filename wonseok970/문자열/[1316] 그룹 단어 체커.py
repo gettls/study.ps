@@ -25,3 +25,4 @@ for i in range(len(b)):
     else:
         c.append(get)
 
+# refactor
