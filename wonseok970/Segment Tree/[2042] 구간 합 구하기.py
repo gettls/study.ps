@@ -72,3 +72,4 @@ for _ in range(M + K):
     elif a == 2:
         # root node 에서 0 ~ 4 의 인덱스 중, left ~ right 인덱스의 합을 구한다
         print(prefixSum(1, 0, N - 1, b - 1, c - 1))
+# refactor
