@@ -23,7 +23,7 @@ for i in range(K):
 
 
 
-
+# refactor
 # print(jwl[0][1], jwl[1][1], jwl[2][1])
 
 
