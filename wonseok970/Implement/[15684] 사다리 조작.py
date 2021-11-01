@@ -2,9 +2,6 @@ N, M, H = map(int, input().split())
 
 ladder = [[0] * N for _ in range(H)]
 
-dx = [-1, 1, 0, 0]
-dy = [0, 0, -1, 1]
-
 
 def move():
     for i in range(N):
@@ -37,8 +34,7 @@ def dfs(start, cnt):
                 ladder[i][j] = 0
 
 
-result = 0
-visited = [[0] * N for _ in range(H)]
+result = 2e10
 for _ in range(M):
     x, y = map(int, input().split())
     ladder[x - 1][y - 1] = 1
@@ -49,7 +45,7 @@ for real_cnt in range(4):
     dfs(0, 0)
 
     # 0 ~ 3 개의 사다리 설치중 조작이 성공했을 때,
-    if result != 0:
+    if result != 2e10:
         print(result)
         break
 
