@@ -14,3 +14,4 @@ while s <= e:
         s = mid + 1
 print(res)
 
+# refactor

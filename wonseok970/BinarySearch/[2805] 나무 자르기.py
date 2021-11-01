@@ -39,3 +39,5 @@ while start <= end:
         end = mid - 1
 
 print(end)
+
+# refactor

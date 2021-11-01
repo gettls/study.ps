@@ -29,3 +29,5 @@ while start < end:
         start += 1
 
 print(lst[M_start], lst[M_end])
+
+# refactor

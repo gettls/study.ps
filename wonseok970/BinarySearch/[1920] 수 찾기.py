@@ -27,3 +27,4 @@ for i in range(m):
     else:
         print(0)
 
+# refactor
