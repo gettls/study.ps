@@ -14,8 +14,9 @@ for i in range(257):
                 d_block += land[j][k] - i
 
     if d_block + B >= n_block:
-        if min_time >= (d_block * 2) + n_block:
+        if min_time > (d_block * 2) + n_block:
             min_time = (d_block * 2) + n_block
-            result_h = i
+            if result_h < i:
+                result_h = i
 
 print(min_time, result_h)

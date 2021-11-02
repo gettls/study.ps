@@ -16,4 +16,12 @@ while T:
     result -= 1
     print(result)
     T -= 1
+
+# [ face, face, face ]
+# [ face ]
+
+# 1. mask / 2. sun / 3. maekup / 4. x
+
+
+# 1. hat sun / hat x / turban sun / turban x / head sung
 # refactor
