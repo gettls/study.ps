@@ -26,3 +26,5 @@ for i in range(m):
         print(1, end=" ")
     else:
         print(0, end=" ")
+
+# refactor

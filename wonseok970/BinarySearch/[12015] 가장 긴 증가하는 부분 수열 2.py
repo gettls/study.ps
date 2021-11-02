@@ -15,3 +15,5 @@ for x in lst:
         a[bisect_left(a, x)] = x
 
 print(len(a))
+
+# refactor

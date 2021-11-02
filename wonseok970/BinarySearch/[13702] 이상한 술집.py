@@ -27,3 +27,5 @@ while s <= e:
         e = mid - 1  # 몫의 양을 줄인다.
 
 print(get)
+
+# refactor

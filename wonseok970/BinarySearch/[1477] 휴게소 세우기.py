@@ -27,3 +27,5 @@ while s <= e:
         e = mid - 1  # 간격을 줄인다 [ 설치가능 개수 증가 ]
 
 print(get)
+
+# refactor

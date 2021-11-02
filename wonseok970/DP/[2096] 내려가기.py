@@ -52,3 +52,4 @@ print(max(max_dp[0]), min(min_dp[0]))
 # 1 / 4 5 6
 # 2 / 4 9 0
 
+# refactor

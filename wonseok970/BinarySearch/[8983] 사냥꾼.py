@@ -28,3 +28,5 @@ for a, b in animal:
         cnt += 1
 
 print(cnt)
+
+# refactor
