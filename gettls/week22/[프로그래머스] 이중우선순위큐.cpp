@@ -30,7 +30,7 @@ vector<int> solution(vector<string> operations) {
     }
 
     else {
-        answer.push_back(dq.front()); answer.push_back(dq.back());
+        answer.push_back(dq.back()); answer.push_back(dq.front());
     }
 
     return answer;
