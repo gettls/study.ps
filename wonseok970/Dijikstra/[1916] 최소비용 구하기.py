@@ -32,7 +32,7 @@ def dijikstra(start):
             # 특정 노드까지의 거리
             cost = dist + i[1]
 
-            # 초기화 된 dist가 기존의 거리값 보다 작을 때,
+            # 초기화 된 dist가 기존의 거리값[INF] 보다 작을 때,
             if cost < distance[i[0]]:
                 distance[i[0]] = cost
                 heapq.heappush(q, (cost, i[0]))

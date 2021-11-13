@@ -17,6 +17,8 @@ def bfs(i, j, c):
     arr[i][j] = c
     q.append([i, j])
 
+
+
     while q:
         x, y = q.popleft()
 

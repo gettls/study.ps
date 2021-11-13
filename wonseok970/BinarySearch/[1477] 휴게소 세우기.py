@@ -10,7 +10,7 @@ while s <= e:
     mid = (s + e) // 2
     count = 0
 
-    # print('s, e, mid =', s, e, mid)
+    print('s, e, mid =', s, e, mid)
 
     for i in range(1, len(loc)):
         if loc[i] - loc[i - 1] > mid:
