@@ -1,16 +1,21 @@
 import heapq
+from collections import deque
+
+jobs = [[0, 3], [1, 5], [2, 6]]
 
 
 def solution(jobs):
-    jobs.sort(key=lambda x: x[1])
+    # jobs.sort(key=lambda x: x[1])
     heap = []
+    # q = deque()
     start, end, result, i = -1, 0, 0, 0
 
     while i < len(jobs):
         for j in jobs:
             if start < j[0] <= end:
                 heapq.heappush(heap, [j[1], j[0]])
-
+                # q.append([j[1], j[0]])
+                print(heap)
         if len(heap) > 0:
             get = heapq.heappop(heap)
             start = end  # 이전의 종료시간
@@ -22,7 +27,13 @@ def solution(jobs):
         else:  # 처리할 작업이 없을경우,
             end += 1  # 작업 종류 후 현재 시간을 1씩 늘린다.
 
-    return result//len(jobs)
+    return result // len(jobs)
+
+
+print(solution(jobs))
+
+
+
 
 # def solution(jobs):
 #     min_val = int(1e9)
